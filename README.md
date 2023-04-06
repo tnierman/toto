@@ -1,4 +1,4 @@
 # toto
 You know what this gonna be
 
-[<img src="https://i.ytimg.com/vi/U1LB_OerHCE/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=U1LB_OerHCE "Africa")
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/U1LB_OerHCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]
